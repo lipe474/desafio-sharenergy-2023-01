@@ -26,7 +26,7 @@ Para pegar a variável de conexão no MongoDB Atlas, crie um cluster, em seguida
 
 Vai ser disponibilizado uma váriável de conexão semelhante a `mongodb+srv://<user>:<password>@cluster0.wcbnavf.mongodb.net/?retryWrites=true&w=majority`
 
-Coloque o usuário definido no cluster no lugar de `<user>` a senha definida no cluster no lugar de `<password>` e não se esqueça de definir o nome do banco entre o `/?`
+Coloque o usuário definido no cluster no lugar de `<user>` e a senha definida no cluster no lugar de `<password>` e não se esqueça de definir o nome do banco entre o `/?`
 
 Ao final sua variável será algo como `mongodb+srv://usuario_cluster:senha_cluster@cluster0.wcbnavf.mongodb.net/nome_banco?retryWrites=true&w=majority`
 
